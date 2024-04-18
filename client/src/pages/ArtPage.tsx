@@ -99,6 +99,7 @@ export const Art = () => {
 
   const [check, setCheck] = useState(false);
 
+  
   useEffect(() => {
     document.title = "Art";
   });
